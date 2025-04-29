@@ -1,6 +1,9 @@
 .idea
 .vscode
-
 *.tfstate
 *.tfstate.backup
 .terraform/
+.terraform.lock.hcl
+*.tfvars
+*.tfplan
+*.tfplan.*
